@@ -222,7 +222,7 @@ I-am-vishalmaurya@github
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Sorens7">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelRomo&count_private=true&show_icons=true&theme=react" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sorens7&count_private=true&show_icons=true&theme=react" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -230,7 +230,7 @@ I-am-vishalmaurya@github
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Sorens7">
-          <img align="center" src="https://streak-stats.demolab.com?user=SamuelRomo&theme=react" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Sorens7&theme=react" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -240,7 +240,7 @@ I-am-vishalmaurya@github
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Sorens7">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=SamuelRomo&limit=3&theme=react&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sorens7&limit=3&theme=react&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
