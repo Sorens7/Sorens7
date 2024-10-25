@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <style>
    .banner{
-      border-radious: 20px;
+      border-radius: 20px;
    }
 </style>
 
