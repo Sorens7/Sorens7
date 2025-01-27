@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-`Computer scientist in love for low level programming <3`
+`Computer scientist who likes to build things 🌱`
+
+Hi! I'm a computer scientist recently graduated from UABC. 
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
+<!--
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Send me a message" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=GMAIL&logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -32,22 +35,21 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   
+-->
 <img align="right" width=250px height=200px padding-left="50px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 ```
-I-am-vishalmaurya@github
+I-am-sorens
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a self taught Full Stack Developer with passion for Embedded Systems and Machine Learning
+📚 I have a Bachelors in Computer Science from the Autonomous University of Baja California (UABC)
+📝 I have a strong interest in Artificial Intelligence, Robotics, Low level programming and Operative Systems
+🔭 Currently working in Web Development and embedded systems
+🌱 Learning about Deep Learning and Operative Systems Design
+🌟 Main languages: Python, C/C++, Javascript
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love drawing, reading, and going for a walk once in a while
 ```
 <hr>
 
