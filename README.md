@@ -178,8 +178,3 @@ I-am-sorens
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sorens7&bg_color=20232a&color=61dafb&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
--->
