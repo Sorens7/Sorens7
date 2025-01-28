@@ -43,7 +43,7 @@ I-am-sorens
    <h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Languages, Frameworks and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
    <br/>
    <div align="left">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,tailwind,sass,nodejs,expressjs,php,mysql,mongodb,postman,vercel,python,tensorflow,r,c,java,git,github,vscode,npm,bash" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,tailwind,sass,nodejs,expressjs,php,mysql,mongodb,postman,vercel,onrender,python,tensorflow,r,c,java,git,github,vscode,npm,bash" />
    </div>
 </div>
 
