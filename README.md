@@ -41,7 +41,7 @@ I-am-sorens
    <h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Languages, Frameworks and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
    <br/>
    <div align="left">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,flutter,bootstrap,tailwind,sass,materialui,redux,jest,cypress,selenium,nodejs,expressjs,laravel,rails,vite,kafka,php,mysql,postgresql,mongodb,redis,prisma,postman,docker,kubernetes,terraform,jenkins,graphql,apollo,vercel,googlecloud,firebase,aws,python,apachespark,headop,tensorflow,r,c,rust,zig,go,lua,ruby,kotlin,java,git,github,vscode,androidstudio,npm,bash,linux" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,flutter,bootstrap,tailwind,sass,materialui,redux,jest,cypress,selenium,nodejs,expressjs,laravel,rails,vite,kafka,php,mysql,postgresql,mongodb,redis,prisma,postman,docker,kubernetes,terraform,jenkins,graphql,apollo,vercel,googlecloud,firebase,aws,python,spark,hadoop,tensorflow,r,c,rust,zig,go,lua,ruby,kotlin,java,git,github,vscode,androidstudio,npm,bash,linux" />
    </div>
 </div>
 
