@@ -27,7 +27,6 @@ Hi! I graduated from Computer Science with experience working across web develop
 I-am-sorens
 -------------------------
 💻 I am a self taught Full Stack Developer with passion for Embedded Systems and Machine Learning
-📚 I have a Bachelors in Computer Science from the Autonomous University of Baja California (UABC)
 📝 I have a strong interest in Artificial Intelligence, Robotics, Low level programming and Operative Systems
 🔭 Currently working in Web Development and embedded systems
 🌱 Learning about Deep Learning and Operative Systems Design
